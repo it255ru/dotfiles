@@ -1,1 +1,2 @@
-# dotfiles-linux
+# dotfiles
+Custom configuration files
