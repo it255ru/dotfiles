@@ -6,9 +6,6 @@ set shiftwidth=4
 set number
 set foldcolumn=2
 
-colorscheme delek
-syntax on
-
 set mouse=a
 
 set ignorecase
